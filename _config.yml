@@ -9,7 +9,7 @@ logo: # logo.png # filename of a logo image that has been placed into your image
 owner:
   name: Sarah Siddiqui
   avatar: #bio-photo.jpg
-  bio: #undefined
+  bio: undefined
   email: ssiddiqui@library.rochester.edu
   twitter: #twitter username (no '@')
   linkedin: #linkedin
@@ -43,8 +43,8 @@ owner:
 
 # The following adjust the accents for your site. If you would like to further edit colors, fonts, font sizes, etc.
 # you may do so in _sass/variables.scss
-lowlight-color:  '#239B56'
-highlight-color: '#ffde0a'
+lowlight-color:  '#075f3d'
+highlight-color: '#ff470a'
 
 # NOTE: If you would like your site to be licensed under a creative commons license, uncomment the 'yes' next to the type of license you wish to use.
 creative-commons:
