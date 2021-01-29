@@ -1,10 +1,9 @@
 
-
 # Site wide configuration
 
 title: Sarah Siddiqui
 locale: en_US
-logo: logo.png # filename of a logo image that has been placed into your images directory
+logo: # logo.png # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
@@ -44,10 +43,10 @@ owner:
 
 # The following adjust the accents for your site. If you would like to further edit colors, fonts, font sizes, etc.
 # you may do so in _sass/variables.scss
-lowlight-color: #165f07
-highlight-color: #0a33ff
+lowlight-color:  '#5f0751'
+highlight-color: '#ffde0a'
 
-  # NOTE: If you would like your site to be licensed under a creative commons license, uncomment the 'yes' next to the type of license you wish to use.
+# NOTE: If you would like your site to be licensed under a creative commons license, uncomment the 'yes' next to the type of license you wish to use.
 creative-commons:
   cc-by: #yes
   cc-by-nc: #yes
