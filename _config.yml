@@ -3,12 +3,12 @@
 
 title: Sarah Siddiqui
 locale: en_US
-logo: pic.jpg # filename of a logo image that has been placed into your images directory
+logo: #pic.jpg # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
   name: Sarah Siddiqui
-  avatar: Avatar!
+  avatar: pic.jpg
   bio: Staff at University of Rochester studying River Campus Libraries 
   email: ssiddiqui@library.rochester.edu
   twitter: #twitter username (no '@')
