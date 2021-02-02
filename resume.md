@@ -1,6 +1,8 @@
 ---
+title: Resume
 layout: resume
 ---
+Use this page to add your accomplishments
 ## Currently
 
 Current Position Description
