@@ -2,7 +2,7 @@
 title: Resume
 layout: resume
 ---
-Use this page to add your accomplishments
+Use this template to share your accomplishments
 ## Currently
 
 Current Position Description
